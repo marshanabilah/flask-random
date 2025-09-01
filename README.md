@@ -1,2 +1,2 @@
 # flask-random
-Flask microservice
+Flask microservice for generating random fruit
